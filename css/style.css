@@ -44,6 +44,7 @@ html {
 }
 
 .container p {
+    margin: 1rem;
     color: beige;
     font-size: 2rem;
 }
